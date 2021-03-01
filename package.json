@@ -20,7 +20,7 @@
     "cxlt-vue2-toastr": "^1.1.0",
     "es6-promise": "^4.2.4",
     "node-sass": "^4.8.3",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.23.0",
     "sass-loader": "^6.0.7",
     "vee-validate": "^2.0.9",
     "vue": "^2.6.10",
